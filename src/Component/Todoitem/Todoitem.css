@@ -1,0 +1,30 @@
+.first {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-between;
+  background-color: rgb(71, 147, 71);
+  gap: 5px;
+}
+
+#btn1 {
+  border-radius: 20%;
+  background-color: #ffe4c4;
+  padding: 10px;
+  width: 60%;
+
+  border: 30px;
+}
+#btn2 {
+  border-radius: 20%;
+  background-color: #ffe4c4;
+  padding: 10px;
+  width: 60%;
+  border: 30px;
+}
+.butt {
+  display: flex;
+  flex-direction: row;
+  gap: 5px;
+  justify-content: flex-end;
+}

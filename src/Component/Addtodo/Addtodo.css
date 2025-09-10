@@ -1,0 +1,16 @@
+.add {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: rgb(71, 147, 71);
+}
+#addtodo {
+  display: flex;
+  flex-grow: 1;
+}
+button {
+  border-radius: 20%;
+  background-color: bisque;
+  padding: 5px;
+  width: 10%;
+}

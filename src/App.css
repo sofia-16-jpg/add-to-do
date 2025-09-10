@@ -1,0 +1,17 @@
+.head {
+  border-color: black;
+  border-style: solid;
+  border-width: medium;
+}
+.first {
+  border-color: black;
+  border-style: solid;
+  border-width: medium;
+}
+.add {
+  border-color: black;
+  border-style: solid;
+  border-width: medium;
+  padding: 5px;
+ 
+}
